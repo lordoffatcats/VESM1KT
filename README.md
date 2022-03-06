@@ -1,2 +1,8 @@
 ### VESM1KT - Atli Elvarsson
-<span style="color:green">some *blue* text</span>.
+## Hæ, ég heiti Atli.
+## Ég bý í Kópavoginum.
+## Mín helstu áhugamál eru:
+ * Tölvuleikir
+ * Bílar
+ * Forritun
+ * Svefn
