@@ -30,7 +30,10 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 ### Eiusmod tempor et fugiat
 
 ```mermaid
-
+pie
+  "Miðja" : 12
+  "Vinstri" : 34
+  "Hægri" : 56
 ```
 
 ### Dolore ut velit
@@ -44,8 +47,8 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 ## Commodo occaecat
 1. Incididunt
 2. laborum
-  1. mollit
-  2. cupidatat
+    1. mollit
+    2. cupidatat
 3. laboris
 4. anim
 
