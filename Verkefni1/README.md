@@ -41,10 +41,12 @@ pie
 ### Dolore ut velit
 
 
-`void setup() {  
+```
+void setup() {  
     Serial.begin(9600);  
     Serial.println("Halló");  
-}`
+}
+```
 
 ## Commodo occaecat
 1. Incididunt
@@ -67,4 +69,4 @@ Velit sit sunt incididunt ipsum eiusmod id ipsum deserunt sint non enim.
 
 ![](https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg)
 
-[](https://www.youtube.com/watch?v=HUBNt18RFbo)
+[![](https://img.youtube.com/vi/HUBNt18RFbo/0.jpg)](https://www.youtube.com/watch?v=HUBNt18RFbo)
