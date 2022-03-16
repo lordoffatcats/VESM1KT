@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="85mm"
+   height="55mm"
+   viewBox="0 0 85 55"
+   version="1.1"
+   id="svg2770"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="nafnspjald.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2772"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="85mm"
+     inkscape:zoom="2.2378227"
+     inkscape:cx="125.12162"
+     inkscape:cy="119.53583"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2767">
+    <rect
+       x="22.687346"
+       y="37.348817"
+       width="241.15579"
+       height="95.931463"
+       id="rect81277" />
+    <rect
+       x="76.151134"
+       y="116.59655"
+       width="167.2165"
+       height="40.571815"
+       id="rect73761" />
+    <rect
+       x="76.056077"
+       y="96.611771"
+       width="226.29137"
+       height="53.087339"
+       id="rect45786" />
+    <rect
+       x="37.044934"
+       y="128.83058"
+       width="259.26989"
+       height="49.601786"
+       id="rect18462" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="25"
+       height="25"
+       xlink:href="../../../../Pictures/Vesm1kt%20logo.svg"
+       id="image2914"
+       x="30"
+       y="5" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-7.6614707,5.8170397)"
+       id="text18460"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect18462);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="37.044922"
+         y="165.22509"
+         id="tspan87889">Atli Elvarsson</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.394;stroke-dasharray:0.788, 0.394;stroke-miterlimit:4;stroke-dashoffset:0"
+       id="rect61860"
+       width="83.505981"
+       height="53.505981"
+       x="0.74700999"
+       y="0.74700999" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text73759"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect73761);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
+         x="76.150391"
+         y="193.56298"
+         id="tspan87891">a</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-18.177348,24.102219)"
+       id="text45784"
+       style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect45786);fill:#000000;fill-opacity:1;stroke:#000000"><tspan
+         x="76.056641"
+         y="108.74297"
+         id="tspan87893">626-5225</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.18934083,0,0,0.18934083,17.095118,42.793845)"
+       id="text81275"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect81277);fill:#000000;fill-opacity:1;stroke:#000000"><tspan
+         x="22.6875"
+         y="51.907612"
+         id="tspan87895">atlielvarson@gmail.com</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120mm"
+   height="120mm"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#50fff3"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="false"
+     inkscape:zoom="1.3166807"
+     inkscape:cx="186.07397"
+     inkscape:cy="200.88394"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-34.626158,312.36665"
+       orientation="0,-1"
+       id="guide60" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="StopS"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="StopS"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2)"
+         style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,5.65 V -5.65"
+         id="path2646" />
+    </marker>
+    <marker
+       inkscape:stockid="DistanceStart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DistanceStart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         id="g2300">
+        <path
+           id="path2306"
+           d="M 0,0 H 2"
+           style="fill:none;stroke:context-fill;stroke-width:1.15;stroke-linecap:square" />
+        <path
+           id="path2302"
+           d="M 0,0 13,4 9,0 13,-4 Z"
+           style="fill:context-stroke;fill-rule:evenodd;stroke:none" />
+        <path
+           id="path2304"
+           d="M 0,-4 V 40"
+           style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:square" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2480" />
+    </marker>
+    <rect
+       x="101.62909"
+       y="84.106827"
+       width="270.71893"
+       height="239.17886"
+       id="rect82741" />
+    <rect
+       x="100.31491"
+       y="298.53549"
+       width="127.47446"
+       height="178.72707"
+       id="rect63111" />
+    <rect
+       x="216.18089"
+       y="538.80945"
+       width="360.0824"
+       height="82.792648"
+       id="rect33978" />
+    <rect
+       x="-236.33147"
+       y="282.10837"
+       width="352.19739"
+       height="231.29379"
+       id="rect4860" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <ellipse
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.99795;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path31"
+       cx="59.938354"
+       cy="-59.938354"
+       transform="scale(1,-1)"
+       rx="59.001026"
+       ry="59.00103"
+       inkscape:label="Ysti hringur"
+       inkscape:export-filename="/home/atlie/Pictures/Vesm1kt logo.png"
+       inkscape:export-xdpi="105.83334"
+       inkscape:export-ydpi="105.83334" />
+    <path
+       id="path57137"
+       style="display:inline;fill:none;stroke:none;stroke-width:1.49846;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.99692, 1.49846;stroke-dashoffset:0"
+       d="M 59.938352,105.34731 A 45.408953,45.408959 0 0 1 14.5294,59.938359 45.408953,45.408959 0 0 1 59.938352,14.529401 45.408953,45.408959 0 0 1 105.34731,59.938359 45.408953,45.408959 0 0 1 59.938352,105.34731 Z"
+       inkscape:label="Texta hringur"
+       inkscape:export-filename="/home/atlie/Pictures/Vesm1kt logo.png"
+       inkscape:export-xdpi="105.83334"
+       inkscape:export-ydpi="105.83334" />
+    <text
+       xml:space="preserve"
+       id="text33976"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:label="Textinn"
+       inkscape:export-filename="/home/atlie/Pictures/Vesm1kt logo.png"
+       inkscape:export-xdpi="105.83334"
+       inkscape:export-ydpi="105.83334"><textPath
+         xlink:href="#path57137"
+         startOffset="50%"
+         id="textPath118059"><tspan
+           id="tspan33980"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:center;text-anchor:middle;fill:#000000">ATLI ELVARSSON-ATLI ELVARSSON-ATLI ELVARSSON-</tspan></textPath></text>
+  </g>
+  <g
+     id="layer2"
+     inkscape:label="thvottabjorn"
+     style="display:inline"
+     inkscape:groupmode="layer">
+    <path
+       id="path1526"
+       style="color:#000000;display:inline;fill:#000000;stroke:none;stroke-width:1.14882;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:label="'utl'ina"
+       d="m 37.41924,34.293873 c -2.678335,0.04026 -0.959089,3.984384 -0.15074,5.545386 1.158193,2.43045 2.541525,4.745175 3.970357,7.024909 -0.978776,0.977518 -1.850468,2.079542 -2.475343,3.41747 l -0.01599,0.03613 -0.0129,0.03768 c -1.235874,3.950711 0.710266,7.803779 1.719575,11.183692 l 0.0036,0.01705 0.0072,0.01702 c 2.481596,6.75902 5.202969,13.993149 10.670038,19.012379 l 0.0016,0.0016 0.0021,0.0021 c 1.534608,1.380689 3.43154,2.380497 5.440589,2.760822 1.549197,0.788394 3.723582,0.866155 5.353346,0.14093 4.065206,-0.03463 7.698266,-2.847304 10.025261,-6.081234 l 0.0016,-0.0016 c 4.520688,-6.219944 7.165598,-13.619473 9.332478,-20.922963 0.874142,-2.871654 0.890463,-6.484619 -1.557994,-8.752229 -0.334406,-0.337672 -0.673966,-0.669203 -1.017497,-0.995301 1.400715,-2.238913 2.755091,-4.512882 3.891888,-6.898431 0.854769,-1.650666 2.727737,-5.965958 -0.657166,-5.512346 -3.924753,1.24287 -7.210288,3.867732 -10.456319,6.339351 -0.0626,-0.05 -0.125906,-0.100214 -0.188425,-0.150224 l -0.01652,-0.0129 -0.01652,-0.01137 c -3.733705,-2.558797 -8.247844,-2.859121 -12.442271,-2.74017 -3.61671,-0.0365 -7.298467,0.908918 -10.337585,2.999836 -3.282593,-2.496307 -6.598377,-5.167346 -10.56834,-6.424532 -0.158669,-0.02128 -0.30569,-0.03197 -0.441897,-0.03304 -0.02165,-1.72e-4 -0.04293,-2.63e-4 -0.06401,0 z m 0.665426,1.467652 c 0.129103,-5.28e-4 0.270518,0.0089 0.425377,0.02839 3.728412,1.405804 6.874559,3.964908 10.02578,6.352776 2.929081,-2.234354 6.631532,-3.267147 10.293188,-3.228526 h 0.01084 0.01084 c 0.514628,-0.0147 1.03164,-0.02226 1.5487,-0.02014 3.61943,0.0149 7.25189,0.516973 10.244148,2.561553 0.260159,0.208074 0.520081,0.41599 0.780545,0.623609 3.123274,-2.369634 6.246742,-4.895917 9.94215,-6.289277 3.303694,-0.41591 0.559416,3.883448 -0.262763,5.316695 -1.188525,2.004569 -2.508355,3.927908 -3.859367,5.825698 0.588073,0.536908 1.166062,1.083676 1.725256,1.648851 l 0.0088,0.0093 0.0093,0.0078 c 2.004773,1.853414 2.033472,4.928076 1.237413,7.540626 v 0.0016 l -0.0016,0.0021 c -0.619469,2.087923 -1.285564,4.172627 -2.012279,6.231975 -1.690105,-1.298981 -3.903203,-1.869263 -5.848931,-2.731911 -2.619156,-1.300627 -6.289465,-1.644251 -8.3124,0.89412 -1.997943,2.305152 -2.495409,6.846454 0.524496,8.525086 3.286894,0.883387 5.842321,3.462883 7.319163,6.460667 -0.268879,0.399644 -0.544192,0.794981 -0.827523,1.184757 v 0.0021 h -0.0021 c -1.839745,2.557669 -4.503994,4.778606 -7.459063,5.44472 0.317195,-0.462076 0.523908,-1.013792 0.578697,-1.659178 -0.45802,-4.24121 -7.33001,-4.595523 -9.284466,-1.343756 -0.346375,0.9511 -0.32379,1.771547 -0.04543,2.453143 -1.080181,-0.457166 -2.095704,-1.099039 -2.978154,-1.891999 l -0.0016,-0.0016 C 50.388782,78.347125 49.114097,76.796119 47.985927,75.125 c 1.502226,-2.826452 3.975611,-5.219078 7.116284,-6.063169 3.019906,-1.678631 2.521921,-6.219933 0.523978,-8.525085 -2.022935,-2.538371 -5.692728,-2.19475 -8.311884,-0.89412 -1.798564,0.797405 -3.825862,1.345321 -5.457107,2.449531 -0.114702,-0.310368 -0.232257,-0.621827 -0.345876,-0.931287 -2.65e-4,-7.93e-4 -0.0011,-0.0013 -0.0016,-0.0021 -1.050444,-3.503551 -2.747508,-7.042907 -1.718026,-10.403663 0.68255,-1.442955 1.741872,-2.60512 2.938919,-3.683846 -1.385436,-1.942793 -2.739953,-3.911176 -3.957433,-5.964582 -0.78364,-1.366064 -3.313759,-5.336019 -0.688656,-5.345088 z m 30.492906,24.645008 c 0.02305,-5.28e-4 0.04611,-2.64e-4 0.06918,0 1.151464,0.01441 2.306248,0.886198 2.260588,2.260072 0.0119,3.868597 -6.006228,1.970336 -4.153618,-1.13778 0.405265,-0.764199 1.109199,-1.109847 1.823855,-1.122292 z m -17.220014,5.29e-4 c 1.18,-0.03055 2.395692,0.850455 2.348863,2.259556 0.05035,3.785709 -6.063732,2.09431 -4.153616,-1.13778 0.4016,-0.757298 1.096751,-1.103446 1.804753,-1.121776 z"
+       inkscape:export-filename="/home/atlie/Pictures/Vesm1kt logo.png"
+       inkscape:export-xdpi="105.83334"
+       inkscape:export-ydpi="105.83334" />
+  </g>
+</svg>
