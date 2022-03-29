@@ -1,4 +1,4 @@
-# Verkefni 2
+# Verkefni 2 - Inkscape og Laserskurður
 
 
 ##  Verkefni 2.1 - Logo í Inkscape
@@ -13,4 +13,14 @@ Næst teiknaði ég annan hring sem var minni, Ég gerði hann gegnsæjann með 
 
 ##  Verkefni 2.2 - Nafnspjald
 
-Ég teiknaði fyrst upp nafnspjaldið í Inkscape, Þar setti ég logoið sem ég bjó til áðan, nafnið mitt, símanúmer og netfang.
+Ég teiknaði fyrst upp nafnspjaldið í Inkscape, það var 85mm * 55 mm á stærð. ég teiknaði kassa sem var það stór og gaf honum 5mm radíus á hornin.
+Ég setti eftirfarandi upplýsingar á spjaldið:
+>logoið sem ég bjó til áðan, nafnið mitt, símanúmer og netfang.
+
+### Laserskurður
+Til þess að laserskerinn gæti skilið myndina þurfti ég að breyta logoinu í .png (sem stendur fyrir portable network graphics) mynd af því að logoið er samsett ú mörgum mismunandi formum sem laserskerinn hefði reynt að skera út vitlaust. Með því að fletja út myndina í .png getur laserskerinn skorið myndina rétt út. Síðan þurfti að breyta textanum í path svo að laserskerinn gæti skilið að hann ætti að skera textann.
+Næst var loksins komið að því að skera spjaldið út.
+
+Hér er mynd af spjaldinu (mynd)
+
+![Nafnspjald](/myndir/nafnspjald_logo.png)
