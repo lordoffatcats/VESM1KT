@@ -25,7 +25,7 @@ Næst teiknaði ég annan hring sem var minni, Ég gerði hann gegnsæjann með 
 Til þess að laserskerinn gæti skilið myndina þurfti ég að breyta logoinu í .png (sem stendur fyrir portable network graphics) mynd af því að logoið er samsett ú mörgum mismunandi formum sem laserskerinn hefði reynt að skera út vitlaust. Með því að fletja út myndina í .png getur laserskerinn skorið myndina rétt út. Síðan þurfti að breyta textanum í path (með path --> object to path) svo að laserskerinn gæti skilið að hann ætti að skera textann.
 Næst var loksins komið að því að skera spjaldið út.
 
-![Nafnspjald](myndir/IMG_20220322_143440.jpg "Mynd")
+![Nafnspjald](myndir/IMG_20220322_143441.jpg "Mynd")
 
 ## Verkefni 2.3 - Arduino kassi
 Næsta skref var að búa til kassa utan um arduino örtölvuna okkar. Við byrjuðum á því að teikna kassann upp í inkscape með viðbót(plugin/addon) sem hét tabbed box maker. Tabbedboxmaker gerði mest alla vinnuna en síðan þurfti ég að búa til göt fyrir USB og rafmagns tengið á tölvunni og líka annað gat fyrir lokið.
