@@ -22,7 +22,7 @@ Næst teiknaði ég annan hring sem var minni, Ég gerði hann gegnsæjann með 
 ![Nafnspjald](myndir/nafnspjald.png "nafnspjald")
 
 ### Laserskurður
-Til þess að laserskerinn gæti skilið myndina þurfti ég að breyta logoinu í .png (sem stendur fyrir portable network graphics) mynd af því að logoið er samsett ú mörgum mismunandi formum sem laserskerinn hefði reynt að skera út vitlaust. Með því að fletja út myndina í .png getur laserskerinn skorið myndina rétt út. Síðan þurfti að breyta textanum í path svo að laserskerinn gæti skilið að hann ætti að skera textann.
+Til þess að laserskerinn gæti skilið myndina þurfti ég að breyta logoinu í .png (sem stendur fyrir portable network graphics) mynd af því að logoið er samsett ú mörgum mismunandi formum sem laserskerinn hefði reynt að skera út vitlaust. Með því að fletja út myndina í .png getur laserskerinn skorið myndina rétt út. Síðan þurfti að breyta textanum í path (með path --> object to path) svo að laserskerinn gæti skilið að hann ætti að skera textann.
 Næst var loksins komið að því að skera spjaldið út.
 
 ![Nafnspjald](myndir/nafnspjaldmynd.png "Mynd")
