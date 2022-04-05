@@ -37,4 +37,4 @@ Skrefin við að laserskera voru eiginlega alveg eins og síðast.
 Hér er mynd af kassanum í Inkscape og síðan þegar það var búið að skera hann út.
 ![kassiteikning](myndir/kassiteikning.png "Kassi")
 
-![Kassi](myndir/kassi.png "Kassi")
+![Kassi](myndir/IMG_20220405_125613.jpg "Kassi")
